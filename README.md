@@ -262,6 +262,9 @@ MealMind-AI/
     ├── app.py
     ├── requirements.txt
     └── README_demo.md
+├── portfolio/
+│   ├── 作品集大纲.md
+│   └── 作品集正文.md
 ```
 
 ---
