@@ -1,0 +1,9 @@
+campaign_id,campaign_type,start_date,end_date,target_user_group,discount_amount,items_involved,expected_order_increase,actual_order_increase,ROI
+M20260501_01,new_user_coupon,2026-05-01,2026-05-07,new_users,5,酸辣粉,10%,12%,1.2
+M20260501_02,repeat_user_coupon,2026-05-01,2026-05-07,repeat_users,5,牛肉汤饭,8%,6%,1.1
+M20260501_03,full_discount,2026-05-01,2026-05-03,all_users,10,炸鸡套餐,12%,15%,1.3
+M20260502_01,combo_package,2026-05-02,2026-05-07,all_users,0,番茄肥牛汤+酸辣粉,5%,7%,1.2
+M20260503_01,flash_sale,2026-05-03,2026-05-03,new_users,8,招牌鸡腿饭,8%,10%,1.25
+M20260504_01,loyalty_coupon,2026-05-04,2026-05-07,repeat_users,10,番茄肥牛汤,6%,5%,1.15
+M20260505_01,combo_package,2026-05-05,2026-05-07,all_users,0,牛肉汤饭+酸辣粉,4%,6%,1.18
+M20260506_01,new_user_coupon,2026-05-06,2026-05-07,new_users,5,炸鸡套餐,7%,9%,1.22
